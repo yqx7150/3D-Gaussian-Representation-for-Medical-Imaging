@@ -7,6 +7,11 @@
 [[paper](https://arxiv.org/abs/2602.11653) ]  [[code](https://github.com/yqx7150/GR-Diffusion)]
 
 
+### ● SR-GS: Spectral-Residual Gaussian Splatting for Ultra Sparse-View CBCT Reconstruction
+
+[[code](https://github.com/yqx7150/SRGS)]
+
+
 
 
 
