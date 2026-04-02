@@ -12,6 +12,18 @@
 [[code](https://github.com/yqx7150/SRGS)]
 
 
+### ● Iterative Diffusion-Refined Neural Attenuation Fields for Multi-Source Stationary CT Reconstruction NAF Meets Diffusion Model
+
+[[paper](https://arxiv.org/abs/2511.14310) ]  [[code](https://github.com/yqx7150/Diff-NAF)]
+
+
+
+
+
+
+
+
+
 
 
 
